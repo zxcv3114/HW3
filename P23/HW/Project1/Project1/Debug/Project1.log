@@ -1,0 +1,3 @@
+﻿  Main.c
+c:\107360239林哲楷\p23\hw\project1\project1\main.c(15): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> C:\107360239林哲楷\P23\HW\Project1\Debug\Project1.exe
